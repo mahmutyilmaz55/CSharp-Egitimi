@@ -1,0 +1,14 @@
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+F:\CSharpEgtimi\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

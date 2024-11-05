@@ -1,0 +1,14 @@
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\mylz5\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\mylz5\OneDrive\Desktop\CSharpEgtimi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb

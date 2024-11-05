@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4164F61-B08F-46A3-8828-BEE1235B4449}|09_DatabaseProject\\09_DatabaseProject.csproj|f:\\csharpegtimi\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4164F61-B08F-46A3-8828-BEE1235B4449}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7852F17E-386A-4F96-BA57-D92839877D23}|08_Methods\\08_Methods.csproj|f:\\csharpegtimi\\csharpegitimkampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7852F17E-386A-4F96-BA57-D92839877D23}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178C2823-36EB-4C78-B059-46F4295D2967}|07_ForeachLoop\\07_ForeachLoop.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178C2823-36EB-4C78-B059-46F4295D2967}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F109697-938E-443E-A56B-60EF0CEF6EEA}|06_Arrays\\06_Arrays.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F109697-938E-443E-A56B-60EF0CEF6EEA}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97064682-682A-4352-A613-8D559072F6C2}|05_LoopWithStars\\05_LoopWithStars.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\05_loopwithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97064682-682A-4352-A613-8D559072F6C2}|05_LoopWithStars\\05_LoopWithStars.csproj|solutionrelative:05_loopwithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99591C6-D509-4CAF-BB06-B0354E60BD25}|04_Loops\\04_Loops.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99591C6-D509-4CAF-BB06-B0354E60BD25}|04_Loops\\04_Loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC653F35-61EB-4B1E-9069-950B29CAD892}|03_MakingDecision\\03_MakingDecision.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC653F35-61EB-4B1E-9069-950B29CAD892}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0260F625-BEBE-4713-8499-C7EC70796E8D}|02_Variables\\02_Variables.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0260F625-BEBE-4713-8499-C7EC70796E8D}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39735A60-497F-4E9B-ACAE-A7550E91EFA5}|01_MainSubjects\\01_MainSubjects.csproj|F:\\CSharpEgtimi\\CSharpEgitimKampi\\01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39735A60-497F-4E9B-ACAE-A7550E91EFA5}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:17:03.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:03:16.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:37:44.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:41:46.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\05_LoopWithStars\\Program.cs",
+              "RelativeDocumentMoniker": "05_LoopWithStars\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\05_LoopWithStars\\Program.cs",
+              "RelativeToolTip": "05_LoopWithStars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:00:53.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\04_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "04_Loops\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\04_Loops\\Program.cs",
+              "RelativeToolTip": "04_Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:46:51.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAOQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:44:35.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Variables\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\02_Variables\\Program.cs",
+              "RelativeToolTip": "02_Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:36:12.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\01_MainSubjects\\Program.cs",
+              "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
+              "ToolTip": "F:\\CSharpEgtimi\\CSharpEgitimKampi\\01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "01_MainSubjects\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwE0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:17:38.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

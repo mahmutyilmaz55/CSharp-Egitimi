@@ -1,0 +1,7 @@
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.exe
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.exe
+F:\CSharpEgtimi\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.pdb
