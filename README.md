@@ -5,7 +5,7 @@
 ## 🎁 1.Proje :  Main Subjects
 ### ✨ Yazdırma komutları
 ### ✨ String Degiskenler
-### Int Degiskenler
+### ✨ Int Degiskenler
 ## 🎁 2.Proje :  Variables
 ### ✨ Double Degiskenler
 ### ✨ Klavyeden Veri Girisleri String Degiskenler
