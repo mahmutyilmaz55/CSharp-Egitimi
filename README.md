@@ -38,6 +38,7 @@
 ### ✨ Geriye Deger Döndürmeyen methodlar(void method)
 ## 🎁 9.Prje : DatabaseProject
 ### ✨ Ado.net komutaları kullanılark veritabanında olan tablodaki verileri getirildi.
-
+## 🎁 10.Proje : DatabaseProject
+### ✨ Veritabanına ekleme,silme,güncellme işlemleri yapıldı.
 ### 💎💎 Bu Projede yazdırma komutları,değişkenler,değişken tanımlama,if else yapısı(karşılaştırma),döngüler,arraylar(birden fazla elemanı tek bir değişkende tutma),methodlar
 ### Ado.net ile veritabanına bağlanma ve veri tabanından verileri getirme işlemi yapılmıştır.
